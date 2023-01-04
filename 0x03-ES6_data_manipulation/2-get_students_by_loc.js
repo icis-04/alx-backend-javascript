@@ -1,4 +1,4 @@
-export default function getListStudentIds(getListStudents) {
+export default function getStudentsByLocation(getListStudents) {
   function getUserId(item) {
     return item;
   }
