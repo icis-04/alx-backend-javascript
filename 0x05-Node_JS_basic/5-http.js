@@ -1,4 +1,4 @@
-onst http = require('http');
+const http = require('http');
 
 const getStudentData = require('./3-read_file_async');
 
